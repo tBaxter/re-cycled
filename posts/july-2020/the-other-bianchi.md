@@ -1,5 +1,5 @@
 ---
-title: The other Bianchi
+title: The other bianchi
 description: When it rains, it pours.
 date: 2020-07-17
 tags:
