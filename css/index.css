@@ -135,7 +135,7 @@ main::before {
 }
 main {
   margin-left: 27%;
-  padding: 1rem 2rem;
+  padding: 2rem 2rem 1rem;
   background: #fff;
   border: 1px solid var(--gray);
   border-radius: 0.5em;
@@ -152,7 +152,7 @@ header {
   position: relative;
   background: #f0f0f0;
   z-index: 1;
-  margin: 4.5em 0;
+  margin: 4.5em 0 2em;
   padding: .33em 0;
   border: solid var(--gray);
   border-width: 1px 0
