@@ -11,6 +11,13 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
 
+  eleventyConfig.addShortcode("figure", function (img_path, url, desc) {
+    return `<figure class="image">
+      <img src="${ img_path }${ url }" alt="${ desc }" />
+      <figcaption>${ desc }</figcaption>
+    </figure>`
+  });
+
   eleventyConfig.setDataDeepMerge(true);
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");

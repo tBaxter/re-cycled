@@ -4,7 +4,6 @@ description: The obsession had to start somewhere. In my case, it started with e
 date: 2020-07-08
 tags:
   - khs-aerosport
-  - renovation
   - principessa
 layout: layouts/post.njk
 ---
