@@ -46,11 +46,11 @@ I replaced the  52/42 Biopace chainrings with a nice set of pretty 50/40 rings I
 
 The original headset and stem also cleaned up well with a bit of [Mother's](https://amzn.to/2XEvGQl). The headset, like the bottom bracket, was repacked with [teflon grease](https://amzn.to/31w8lkF).
 
-Aluminum [Origin8 pro-rise bars](https://amzn.to/3kkxEim) replaced the original steel bars, along with new [clamp-on leather-look grips](https://amzn.to/3ikuwkN) and -- of course -- a quick polish on the original brake levers and brakes. Jagwire celeste [brake cables](https://amzn.to/3iguXwv) and [shifter cables](https://amzn.to/3kpBGpC) were used all around.
+Aluminum [Origin8 pro-rise bars](https://amzn.to/3kkxEim) replaced the original steel bars, along with new [clamp-on leather-look grips](https://amzn.to/3ikuwkN) and -- of course -- a quick polish on the original brake levers and brakes. Jagwire celeste [brake cables](https://amzn.to/3iguXwv) and [shifter cables](https://amzn.to/3kpBGpC) were used all around. Of course, new [brake pads](https://amzn.to/31xScLK) were fitted, too.
 
 <img src="/img/july-2020/rear-end.jpg" alt="Rear end.">
 
-Both wheels were cleaned up and repacked with [teflon grease](https://amzn.to/31w8lkF), and a new [Shimano six-speed freewheel gear cluster](https://amzn.to/3ikv22d) was fitted. I love the chromed chainstay protector KHS fitted on these. You can also the Schwalbe tires I picked up before it became so hard to find tires and tubes. 2020... sigh.
+Both wheels were cleaned up and repacked with [teflon grease](https://amzn.to/31w8lkF), and a new [Shimano six-speed freewheel gear cluster](https://amzn.to/3ikv22d) was fitted. I love the chromed chainstay protector KHS fitted on these. You can also see the Schwalbe tires I picked up before it became so hard to find tires and tubes. 2020... sigh. Speaking of tubes, I did manage to find [new ones](https://amzn.to/3kuVmsg) and felt lucky for it.
 
 <img src="/img/july-2020/bell.jpg" alt="Ring ring goes the bell.">
 
@@ -62,7 +62,7 @@ As were the custom printed "Principessa" [waterslide decals](https://www.amazon.
 
 <img src="/img/july-2020/done-ish.jpg" alt="The first iteration done.">
 
-A big, comfy brown seat (no longer available) and [celeste water bottle holder](https://amzn.to/3kqbZFF) were also requested, and with their installation, the first iteration was complete.
+A big, comfy brown seat (no longer available), [celeste water bottle holder](https://amzn.to/3kqbZFF) and [not-scary plastic pedals](https://amzn.to/33KtoTq) were also requested. With their installation, the first iteration was complete.
 
 
 

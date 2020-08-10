@@ -69,12 +69,15 @@ figure figcaption {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-
 }
 .photogrid > figure {
-  margin: 0;
+  margin: 0 0 0.5em;
   width: 49%;
 }
+.photogrid > figure.vert {
+  width: 32%;
+}
+
 a[href] {
   color: var(--rust);
 }

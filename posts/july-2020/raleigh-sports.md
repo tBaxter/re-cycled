@@ -21,7 +21,7 @@ And quickly discovered there were reasons it was free. It was really in pretty r
 Even so, I really didn't know what I was getting myself into.
 
 <div class="photogrid">
-  {% figure img_path "chainguard.jpg", "The battered chainguard appeared to be held on mostly with grime, and that three-speed cable may be past its prime." %}
+  {% figure img_path "chainguard.jpg", "The battered chainguard appeared to be held on mostly with grime, and that three-speed cable may be past its prime. The decal style places it somewhere in the mid-70s, probably." %}
 
   {% figure img_path "rear.jpg", "The rear fender is similarly battered and grimy." %}
 
