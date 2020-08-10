@@ -4,7 +4,6 @@ description: Who doesn't like shiny things?
 date: 2020-07-20
 tags: 
     - musings
-    - aesthetics
 layout: layouts/post.njk
 ---
 

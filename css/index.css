@@ -254,10 +254,6 @@ header:after {
   border-radius: 0.75em; /* 3px /12 */
   text-decoration: none;
 }
-a[href].post-tag,
-a[href].post-tag:visited {
-  color: #fff;
-}
 
 /* Warning */
 .warning {
