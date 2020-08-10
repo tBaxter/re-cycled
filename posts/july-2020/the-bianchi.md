@@ -35,3 +35,5 @@ The chain hanger is a nice touch, too.
 It came with a stem from the Bianchi "black stem" era, which further helps narrow down the age of it. This particular stem has a lot of damage to the finish, so I'm going to first try to strip and polish it. If that fails, I'll repaint it.
 
 One bit that has me stumped (and stalled) is the bottom bracket. I know it's a 70mm, so I picked up a [Shimano 70x118 Italian-thread BB](https://amzn.to/31DtJou), which is a nice BB for the money, but it doesn't seem to have the right threading. I think I'm going to have to take the frame into a shop and source one locally. I don't want to buy cranks until I have the BB, so I remain somewhat stuck.
+
+Edit: With some additional research it appears that it _might_ be a Mondiale, but the jury is still out on that.
