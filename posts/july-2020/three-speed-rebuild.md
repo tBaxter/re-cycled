@@ -8,7 +8,7 @@ layout: layouts/post.njk
 img_path: /img/july-2020/three-speed/
 ---
 
-Internally geared hubs can be pretty scary for the uninitiated work on -- there are a *lot* of parts -- but the [Raleigh Sports](/tags/raleigh-sports/) had been far too neglected to avoid opening it up the three-speed and rebuilding it.
+Internally geared hubs can be pretty scary for the uninitiated work on -- there are a *lot* of parts -- but the [Raleigh Sports](/tags/raleigh-sports/) had been far too neglected for far too long to avoid opening up the three-speed hub and rebuilding it.
 
 If you ever cracked open a coaster brake hub as a kid, it's a bit like that, only about a hundred times more complex. Still, it's totally doable for the home repairman. The key is to take your time, take lots of notes (and lots of pictures) and be very careful to not lose any small fiddly bits.
 
