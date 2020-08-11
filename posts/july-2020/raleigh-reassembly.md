@@ -10,7 +10,7 @@ img_path: /img/july-2020/raleigh/
 
 <img src="{{ img_path }}frame.jpg" alt="The Raleigh Sports frame, polished up." class="wide">
 
-While I was [rebuilding the three-speed hub](/posts/july-2020/three-speed-rebuild/) I was also busy cleaning, cleaning cleaning. The Raleigh had clearly been left outside, unloved, for a long time, and there was a thick layer of grime and tree sap that had sun-baked deep into the paint.
+While I was [rebuilding the three-speed hub](/posts/july-2020/three-speed-rebuild/) I was also busy cleaning, cleaning, and cleaning some more. The Raleigh had clearly been left outside, unloved, for a long time. There was a thick layer of grime and tree sap that had sun-baked deep into the paint.
 
 So cleaning it was a multistep process: 
 
@@ -37,6 +37,7 @@ For the chrome parts, I sprayed a penetrating oil and scrubbed with fine steel w
 
   {% figure img_path "fenders.jpg" "Here you can see the in-process front fender alongside the as-found rear fender and chainguard. The chainguard may be a lost cause."  %}
 </div>
+
 ### The rear wheel
 
 The rear wheel was a special challenge, since it was missing a spoke. After measuring carefully I ordered [heavy-duty spokes](https://amzn.to/2PGgxJI) and a [spoke wrench](https://amzn.to/3aildPw). Neither is anything fancy, but they were more than adequate for the task at hand.
