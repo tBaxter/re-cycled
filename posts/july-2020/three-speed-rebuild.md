@@ -1,5 +1,5 @@
 ---
-title: Three-speed rebuild
+title: Sturmey-Archer three-speed rebuild
 description: Tearing down and rebuilding a long-neglected Sturmey-Archer three-speed hub.
 date: 2020-07-28
 tags:
