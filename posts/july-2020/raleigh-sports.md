@@ -14,7 +14,7 @@ I've had an urge to take experience a classic three-speed for awhile now. The la
 
 In the time of COVID, even ragged projects seem to be fetching an awful lot of money, and since I already had too many projects going anyway, I figured that would have to just remain a daydream for awhile.
 
-And then this turned up, literally asking to be picked up from the curb. Who could resist a _free_ Raliegh sports? So, after taking just enough time to be sure it was mostly all there, I drug it home.
+And then this turned up, literally asking to be picked up from the curb. Who could resist a _free_ Raleigh Sports? So, after taking just enough time to be sure it was mostly all there, I drug it home.
 
 And quickly discovered there were reasons it was free. It was really in pretty rough shape. I expected the tires to be flat, and for it to be grimy. Honestly for free, I didn't expect much, but figured even if it was a total bust I could just tuck the Sturmey-Archer three-speed hub away for some future project.
 
