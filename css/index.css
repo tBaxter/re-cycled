@@ -85,7 +85,6 @@ figure figcaption {
   }
 }
 
-
 a[href] {
   color: var(--rust);
 }
