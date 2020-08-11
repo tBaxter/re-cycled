@@ -42,15 +42,10 @@ p,
 .tmpl-post > img,
 .tmpl-post figure {
   display: block;
-  width: 64%;
   border: 1px solid;
   float: right;
   clear: right;
-  margin: 0 0 1em 1em;
-}
-.tmpl-post > img.vert,
-.tmpl-post > img.sm {
-  width: 32%
+  margin: 0 0 1em; /* Will be reset below for larger screens */
 }
 .tmpl-post > img.wide {
   width: 100%
@@ -65,18 +60,31 @@ figure figcaption {
   font-style: italic;
   color: var(--darkgray)
 }
-.photogrid {
+
+
+/* Grid out photogrid and images only on larger screens */
+@media only screen and (min-width: 800px) {
+  .tmpl-post > img,
+  .tmpl-post figure {
+    width: 64%;
+    margin: 0 0 1em 1em;
+  }
+  .tmpl-post > img.vert,
+  .tmpl-post > img.sm,
+  .photogrid > figure.vert {
+    width: 32%
+  }
+  .photogrid {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+  }
+  .photogrid > figure {
+    margin: 0 0 0.5em;
+    width: 49%;
+  }
 }
-.photogrid > figure {
-  margin: 0 0 0.5em;
-  width: 49%;
-}
-.photogrid > figure.vert {
-  width: 32%;
-}
+
 
 a[href] {
   color: var(--rust);
@@ -215,7 +223,7 @@ header:after {
   padding: 0;
   list-style: none;
   float: left;
-  margin: 0 0 0 17em;
+  margin: 0 0 0 15em;
 }
 .nav-item {
   display: inline-block;
