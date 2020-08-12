@@ -4,6 +4,7 @@ description: I've always wanted a Bianchi road bike.
 date: 2020-07-10
 tags:
   - bianchi
+  - bianchi-mondiale
 layout: layouts/post.njk
 ---
 
