@@ -60,6 +60,11 @@ figure figcaption {
   font-style: italic;
   color: var(--darkgray)
 }
+img.thumb {
+  width: 90px;
+  border: 1px solid;
+  border-radius: 3px;
+}
 
 
 /* Grid out photogrid and images only on larger screens */
@@ -244,25 +249,29 @@ header:after {
 .postlist li {
   counter-increment: start-from -1;
   display: grid; 
-  grid-template-columns: 12.5% auto 15%; 
+  grid-template-columns: 15% auto 15%; 
   grid-template-rows: repeat(2, auto); 
   grid-column-gap: 20px;
   grid-row-gap: 0px; 
   margin-bottom: 2em;
   align-items: center;
+  justify-items: start
 }
-.postlist time { 
+.postlist .postdata { 
   grid-area: 1 / 1 / 3 / 2;
   border-right: 1px solid var(--lightgray);
   text-align: right;
   padding-right: 20px;
   font-size: 0.9rem;
   height: 100%;
-  padding-top: 0.5em
+  padding-top: 0.5em;
+  width: 110px /* to match thumb */
 } 
-.postlist h3 { 
-  margin: 0;
+.postlist .postinfo {
   grid-area: 1 / 2 / 2 / 3; 
+}
+.postlist h3 { 
+  margin: 0.05em 0 0;
 } 
 .postlist h3 a {
   text-decoration: none
@@ -273,9 +282,8 @@ header:after {
   text-decoration: underline;
   color: var(--rust)
 }
-.postlist li > p { 
+.postinfo p { 
   margin: 0;
-  grid-area: 2 / 2 / 3 / 3; 
 } 
 .postlist .tags { grid-area: 1 / 3 / 3 / 4; } 
 

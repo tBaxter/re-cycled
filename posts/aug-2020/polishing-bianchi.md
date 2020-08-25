@@ -7,7 +7,7 @@ tags:
   - bianchi
 layout: layouts/post.njk
 img_path: /img/aug-2020/bianchi-sport/
-thumbnail: 
+thumbnail: bianchi-sport-thumb.jpg
 ---
 
 Because the Bianchi Sport had lived a sheltered life, there wasn't all that much really wrong with it. What it needed was a deep clean, lube and adjustments. New parts on this one were limited to just the usual [KMC chain](https://amzn.to/34wejoV), [inexpensive brake and shifter cables](https://amzn.to/3gthJuT), [not-great brake pads](https://amzn.to/31qjzID)and [surprisingly nice cork handlebar tape](https://amzn.to/31rJXSv).
