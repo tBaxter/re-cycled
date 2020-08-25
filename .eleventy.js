@@ -11,7 +11,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
 
-  eleventyConfig.addShortcode("figure", function (img_path, url, desc, classname) {
+  eleventyConfig.addShortcode("figure", function (img_path, url, desc, classname="") {
     return `<figure class="image ${classname}">
       <img src="${ img_path }${ url }" alt="${ desc }" />
       <figcaption>${ desc }</figcaption>
