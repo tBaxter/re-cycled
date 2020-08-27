@@ -4,7 +4,7 @@ description: I've always wanted a Bianchi road bike.
 date: 2020-07-10
 tags:
   - bianchi
-  - bianchi-mondiale
+  - bianchi-campione
 layout: layouts/post.njk
 ---
 
@@ -37,3 +37,5 @@ It came with a stem from the Bianchi "black stem" era, which further helps narro
 One bit that has me stumped (and stalled) is the bottom bracket. I know it's a 70mm, so I picked up a [Shimano 70x118 Italian-thread BB](https://amzn.to/31DtJou), which is a nice BB for the money, but it doesn't seem to have the right threading. I think I'm going to have to take the frame into a shop and source one locally. I don't want to buy cranks until I have the BB, so I remain somewhat stuck.
 
 Edit: With some additional research it appears that it _might_ be a Mondiale, but the jury is still out on that.
+
+Second edit (Aug 2020): With continued investigation, it appears more likely to be a Campione d'Italia. But the jury is still out.
