@@ -8,6 +8,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+I'll have to update this one as I remember more bits (or change them).
+
 |    |  |
 | ------------- | ------------- |
 |Brand             | KHS|
