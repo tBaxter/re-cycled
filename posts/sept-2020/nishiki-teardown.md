@@ -7,7 +7,7 @@ tags:
   - nishiki-sport
 layout: layouts/post.njk
 img_path: /img/sept-2020/nishiki-sport/
-thumbnail: nishiki-thumb.jpg
+thumbnail: wheel-thumb.jpg
 ---
 
 <img src="{{ img_path }}cables.jpg" alt="cables and cutter" />
