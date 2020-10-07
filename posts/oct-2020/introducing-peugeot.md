@@ -22,13 +22,13 @@ Anyways, now that I have that little rant out, back to the subject at hand: the 
 
 I narrowly missed a pair of nice Bianchis, much to my chagrin. 
 
-I had one eye two different Raleighs but neither quite spoke to me. And I suspect both may have been real heavyweight bikes -- not what I was after.
+I had one eye on two different Raleighs, but neither quite spoke to me. And I suspect both may have been real heavyweight bikes -- not what I was after.
 
 I spotted a nice Miyata and a Univega, but both weren't really priced like project bikes (although the Univega should have been).
 
 Finally, on a whim I inquired about this forlorn Peugeot that had been listed on the local marketplace a full year ago. Astoundingly, it was still available, and at couch-cushion money. So I grabbed it.
 
-To be honest, it's not a great Peugeot. It's an OK Peugeot. But I thought it was pretty. After some research (and discovering the paper tag still intact on the bottom bracket) I learned this particular Peugeot is something of a rare bird (or lion, as the case may be): it's a circa 1982 PH19, as seen on [this catalog page](http://www.bikeboompeugeot.com/Brochures%20USA/Peugeot%201982%20USA%20Brochure/Peugeot_1982_USA_Brochure_PH10s_PH19.jpg) and [this ad](http://www.bikeboompeugeot.com/Brochures%20USA/Peugeot%201982%20USA%20Brochure/Peugeot%201982%20USA%20Special%20Flyer%20Page%204.jpg). 
+To be honest, it's not a great Peugeot. It's an OK Peugeot. I thought it was pretty and nice enough. After some research (and discovering the paper tag still intact on the bottom bracket) I learned this particular Peugeot is something of a rare bird (or lion, as the case may be): it's a circa 1982 PH19, as seen on [this catalog page](http://www.bikeboompeugeot.com/Brochures%20USA/Peugeot%201982%20USA%20Brochure/Peugeot_1982_USA_Brochure_PH10s_PH19.jpg) and [this ad](http://www.bikeboompeugeot.com/Brochures%20USA/Peugeot%201982%20USA%20Brochure/Peugeot%201982%20USA%20Special%20Flyer%20Page%204.jpg). 
 
 While the PH10 lasted a few years, I can't find any reference to the PH19 mixte variant after 1982. My guess is that Peugeot had too many mixtes in the mix and the PH19 was squeezed out.
 
@@ -36,7 +36,7 @@ The PH10 and PH19 are a bit unusual for the era, too. Where their contemporaries
 
 <div class="photogrid">
 
-  {% figure img_path "carbolite.jpg" "The carbolite sticker tells you a lot about this ex-California bike: This was a high-tensile steel bike, sitting at the upper part of the lower end of the Peugeot line-up. Still, it's not as heavy as one would think. The frame weighs in at 7 pounds even. You can also see a mixture of grime and rust on the frame." "vert" %}
+  {% figure img_path "carbolite.jpg" "The carbolite sticker tells you a lot about this ex-California bike: This was a high-tensile steel bike, sitting at the upper part of the lower end of the Peugeot line-up. It's not as heavy as one would think: The frame weighs in at 7 pounds even. You can also see the grime and rust on the frame." "vert" %}
 
   {% figure img_path "cluster.jpg" "One reason it was so cheap: the chain was so rusty the Simplex derailleur had a broken jockey pulley after someone had attempted to force it to move. Luckily the prior owner had  kept the jockey pulley remnants in a ziploc bag helpfully taped to the rear wheel." "vert" %}
 
