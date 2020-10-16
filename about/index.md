@@ -36,4 +36,6 @@ Hope you enjoy the blog. And the ride!
 
 ### About our affiliate links
 
-This website participates in the Amazon Services LLC Associates Program. This program enables us to earn money by linking to amazon.com and affiliated websites. Following these links doesn't cost you anything extra, but they do help us earn a small commission. 
+This website participates in the Amazon Services LLC Associates Program, among other affiliate programs. These programs enable us to earn money by linking to amazon.com and other websites. When you follow these links it doesn't cost you anything extra, but it does help us earn a small commission. 
+
+Please keep in mind affiliate links do not affect our reviews and recommendations. If we're linking to it, we've either tried it or want to. We try to keep things fair and help you make the best choices for you.

@@ -4,7 +4,7 @@
   --red: #C5004A;
   --darkred: #7F0036;
   --lightgray: #e0e0e0;
-  --gray: #ccc;
+  --gray: #666;
   --darkgray: #333;
   --navy: #17050F;
   --blue: #082840;
@@ -65,6 +65,14 @@ img.thumb {
   border-radius: 3px;
 }
 
+.disclosure {
+  font-size: 0.875rem;
+  color: var(--gray);
+  font-style: italic;
+  border: solid;
+  border-width: 2px 0;
+  padding: 1em 0;
+}
 
 /* Grid out photogrid and images only on larger screens */
 @media only screen and (min-width: 800px) {
