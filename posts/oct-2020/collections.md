@@ -16,3 +16,4 @@ So... here's a running list of probably useless parts I now appear to collect. I
 3. *Reflectors* - If you want people to see you at night, wear bright-colored clothing and _get a light!_
 4. *Stem-mounted shifters* - I can't believe there's not a sensibly-priced option to convert these to thumb shifters.
 5. *Steel handlebars* - Riser bars, flat bars, drop bars, I've got them all, but I can't imagine why I'd use them.
+6. *Heavy steel seat clamps* - The ones with a half dozen fiddly parts that don't work very well.
