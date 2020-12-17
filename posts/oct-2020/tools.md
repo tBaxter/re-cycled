@@ -1,7 +1,7 @@
 ---
 title: Tools
 description: Pondering the tools one really needs to work on a bike.
-date: 2020-12-15
+date: 2020-10-25
 tags: 
     - musings
 layout: layouts/post.njk
@@ -36,6 +36,8 @@ You're also going to need a [good cable cutter](https://amzn.to/2WltVXb), becaus
 ## Miscellaneous shop basics
 There are some things I find indispensible in the shop that may not immediately come to mind as tools. In particular, I don't think I go a day without reaching for my [heavy-duty utility scissors](https://amzn.to/38cj9YK) and a [good quality metal ruler](https://amzn.to/3gXixdn). These things are just useful for so many things, you've got to keep them nearby.
 
+I also keep a bunch of [velcro straps](https://amzn.to/3ntFzLy) handy. They're great for holding all sorts of things in place, but especially useful for keeping front wheels from flapping about when the bike is on the stand.
+
 That covers most of the fundamentals. After that you start getting into more specialized things that you can buy as you need them. In that case, there are some things you'll probably need sooner, and some you may need someday, or not at all.
 
 ## General bicycle tools
@@ -44,6 +46,10 @@ For the things you need to buy first, just think of the things all bikes have: C
 A good quality chain breaker is a must have. You can pick up a [handy kit with all your chain tool needs](https://amzn.to/37sdVJk) or, if you want to minimize, you can just get [a breaker for less than $10](https://amzn.to/3afUjd6).
 
 The other must-have for even a basic shop is [decent tire levers](https://amzn.to/38j3qr0). A good set of tire levers will last you forever. Bad ones won't last a week and may be dangerous. Just get some good ones and save yourself the pain of cheap ones.
+
+Of course, if you're changing tires and tubes you're going to need a decent pump. A cheap Harbor Freight or [Bell pump](https://amzn.to/3anskIu) will do the job fine. If you want to get fancy, pick up [a portable inverter/compressor](https://amzn.to/2LMIIIk) that will air up your tires, recharge your iPhone, power the blender for post-wrenching margaritas and, if needed, jump-start your car.
+
+Finally, you're really going to want a repair stand. It's nearly a necessity for brake and derailleur work, and it's a definite nice-to-have for most other jobs. Even cleaning your bike is easier with one. It's possible to spend a *lot* of money on one, but basic ones can work for home use. I picked up [one for less than $75](https://amzn.to/3h5tgCM) that works well. If I had it to do over again I'd probably spend a few bucks more for [a Bikehand](https://amzn.to/2WrJwo8), which folds up smaller and appears to have nicer, easier-to-use articulation and clamping.
 
 ## More advanced bicycle tools
 When you start buying tools for specific bikes, one of the first things you'll inevitably need is the tool for your specific cassette or freewheel. It seems like every new mechanic tries to get out of buying one of these and then usually ends up damaging the hub or cassette. Work on enough bikes and you'll end up with a good size collection of them, but you don't have to worry about that now: just get the right one for your bike. For newer bikes, that's probably a [Shimano cassette tool and chain whip](https://amzn.to/3altwME). For older bikes, it could be a [Shimano freewheel](https://amzn.to/3rg6cWC), a [Suntour four-notch](https://amzn.to/37puNAj), a [Suntour two-notch](https://amzn.to/38j7Z4C) or something else. You'll just have to check and buy the right one for whatever you have. 
