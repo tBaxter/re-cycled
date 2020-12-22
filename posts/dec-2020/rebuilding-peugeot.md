@@ -6,6 +6,7 @@ tags:
   - Peugeot
 layout: layouts/post.njk
 img_path: /img/dec-2020/peugeot/
+thumbnail: thumb.jpeg
 
 ---
 
