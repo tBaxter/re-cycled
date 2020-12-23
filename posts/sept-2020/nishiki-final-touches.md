@@ -31,16 +31,4 @@ Commonly available [Zinnser shellac](https://amzn.to/36o2EcA) works just fine, a
 
 Use the cheapest brush you can find and tape off anything you don't want shellac on. And once the shellac starts to dry, leave it alone! If you touch it you'll get splotches -- you can see where I did on the left grip.
 
-For the bar ends, I wanted to use wine corks to finish out the vintage style -- and because the Velo Orange bars have a relatively small 17mm internal diameter that's too small for most bar ends. This required a bit of crafting:
-
-<div class="photogrid">
-
-  {% figure img_path "cork.jpg" "First, take a standard wine cork and cut it in half with a sharp razor knife. This will let you easily make plugs for both sides from a single cork."  %}
-
-  {% figure img_path "cork-groove.jpg" "Put the razor knife flat to your table surface and the cork with with the uncut side down, then carefully cut a groove in the cork by rotating it around the blade. Don't cut yourself."  %}
-
-  {% figure img_path "cork-slice.jpg" "Then carefully slice downward from the cut end toward your groove, making your way around the cork. Continue until you've shaved off enough for the cork to fit in the bars. Again, be careful and don't cut yourself."  %}
-
-  {% figure img_path "cork-done.jpg" "When you're finished, you'll have a sort of mushroom-shaped cork with a nice edge and outer face. Pop it in the bars as you would any other bar end plug before shellacking, so the shellac can protect and color the cork."  %}
-
-</div>
+For the bar ends, I wanted to use wine corks to finish out the vintage style -- and because the Velo Orange bars have a relatively small 17mm internal diameter that's too small for most bar ends. This required a bit of crafting, which I'll write about in another post.
