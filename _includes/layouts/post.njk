@@ -13,6 +13,14 @@ templateClass: tmpl-post
   This does not cost you anything, nor does it affect our opinion of the 
   products.
 </p>
+
+Tagged: 
+{%- for tag in tags -%}
+  {% if tag != 'posts' %}
+    <a href="/tags/{{ tag | slug }}">{{ tag }}</a>
+  {% endif %}
+{%- endfor -%}
+
 <ul>
   {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
   {%- if nextPost %}<li>Next on Re-Cycled: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}

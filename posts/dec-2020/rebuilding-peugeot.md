@@ -2,8 +2,9 @@
 title: Rebuilding the Peugeot
 description: In which massive amounts of polishing compound and elbow grease save a pile of old French parts from the landfill.
 date: 2020-12-22
+bike: Peugeot PH10 mixte
 tags:
-  - Peugeot
+  - peugeot
 layout: layouts/post.njk
 img_path: /img/dec-2020/peugeot/
 thumbnail: thumb.jpeg

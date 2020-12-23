@@ -5,6 +5,7 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const slugify = require('slugify');
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -67,6 +68,26 @@ module.exports = function(eleventyConfig) {
 
     // returning an array in addCollection works in Eleventy 0.5.3
     return [...tagSet];
+  });
+
+  eleventyConfig.addCollection("bikeList", function (collection) {
+    let bikeSet = new Set();
+    collection.getAll().forEach(function (item) {
+      if ("bike" in item.data) {
+        let bike = item.data.bike
+        bikeSet.add({
+          name: bike,
+          slug: slugify(bike.toLowerCase())
+        });
+      }
+    });
+    return [...bikeSet];
+  });
+  eleventyConfig.addFilter("getPostsForBike", (collection, bike) => {
+    return collection.getAll().filter(function (item) {
+      // Side-step tags and do your own filtering
+      return 'bike' in item.data && item.data.bike == bike;
+    });
   });
 
   eleventyConfig.addPassthroughCopy("img");
