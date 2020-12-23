@@ -2,7 +2,7 @@
 title: Rebuilding the Peugeot
 description: In which massive amounts of polishing compound and elbow grease save a pile of old French parts from the landfill.
 date: 2020-12-22
-bike: Peugeot PH10 mixte
+bike: Peugeot PH19 mixte
 tags:
   - peugeot
 layout: layouts/post.njk
@@ -29,7 +29,7 @@ In the end, the automotive paint cost considerably more than the bike had, but i
 
 <img src="{{ img_path }}103.jpeg" alt="Carbolite 103 tubing" />
 
-The PH10 was built from Peugeot's proprietary Carbolite 103 high-tensile steel. That should be a recipe for real pig of a bike, but the French apparently can work some magic with gas pipe. The PH10 isn't particularly heavy and it rides lighter than it is. Normally I would be a hard pass on most high-tensile steel bikes. I'm glad I gave it a chance.
+The PH19 and the closely related (and more common) PH10 were built from Peugeot's proprietary Carbolite 103 high-tensile steel. That should be a recipe for real pig of a bike, but the French apparently can work some magic with gas pipe. The PH19 isn't particularly heavy and it rides lighter than it is. Normally I would be a hard pass on most high-tensile steel bikes. I'm glad I gave it a chance.
 
 The permit stickers tell us that at some point, long ago, this was a California bike before it found its way to the midwest and began a long period of neglect.
 
