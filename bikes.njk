@@ -1,0 +1,22 @@
+---
+pagination:
+  data: collections.bikeList
+  size: 1
+  alias: bike
+  addAllPagesToCollections: true
+layout: layouts/home.njk
+permalink: /bikes/{{ bike.slug }}/
+---
+
+{% block content %}
+  <h2>{{ bike.name }} posts</h2>
+
+  -- {{ bike }}
+  {# We're reversing, because it will get reversed back in postslists #}
+  {% set postslist = collections[ bike ] | reverse %}
+  -=-=----{{ collections[ bike.name ] }}
+  {% include "postslist.njk" %}
+
+  <p>See <a href="{{ '/bikes/' | url }}">all bikes</a>.</p>
+{% endblock %}
+
