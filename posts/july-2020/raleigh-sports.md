@@ -3,7 +3,8 @@ title: The bedraggled Raleigh
 description: A bound-for-the-dumpster Raleigh Sports gets a new lease on life.
 date: 2020-07-22
 tags:
-  - raleigh-sports
+  - raleigh
+bike: Raleigh Sports
 layout: layouts/post.njk
 img_path: /img/july-2020/raleigh/
 ---

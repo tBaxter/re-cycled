@@ -4,7 +4,7 @@ description: When it rains, it pours.
 date: 2020-07-17
 tags:
   - bianchi
-  - bianchi-quattro
+bike: Bianchi Quattro
 layout: layouts/post.njk
 ---
 

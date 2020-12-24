@@ -3,8 +3,9 @@ title: The start of it all.
 description: The obsession had to start somewhere. In my case, it started with eternal COVID-related backorders and a cheap Craigslist find.
 date: 2020-07-08
 tags:
-  - khs-aerosport
+  - khs
   - principessa
+bike: KHS Aerosport
 layout: layouts/post.njk
 ---
 Really, the story begins with a 2020 Bianchi Torino Dama. Which, you may notice, isn't a vintage bike at all. What it is, however, is conpletely unavailable. My spouse decided if she was going to start riding a bike again, that's what she wanted for Mother's Day. 

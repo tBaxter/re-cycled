@@ -4,11 +4,13 @@ description: The Principessa remains in the stable and gets a few upgrades.
 date: 2020-08-13
 tags:
   - principessa
+  - khs
+bike: KHS Aerosport
 layout: layouts/post.njk
 img_path: /img/aug-2020/principessa/
 ---
 
-The [Principessa](/tags/principessa/) has continued to earn a spot in the stable, and over time has just seemed to impress more with each passing day. It doesn't hurt that it's such a nice looking bike, but it's also very nice to ride, especially given it's pretty humble origins. Some recent upgrades have made it even nicer.
+The [Principessa](/bikes/{{ bike | slug }}/) has continued to earn a spot in the stable, and over time has just seemed to impress more with each passing day. It doesn't hurt that it's such a nice looking bike, but it's also very nice to ride, especially given it's pretty humble origins. Some recent upgrades have made it even nicer.
 
 <img src="{{ img_path }}pedal.jpg" alt="Shiny pedals.">
 

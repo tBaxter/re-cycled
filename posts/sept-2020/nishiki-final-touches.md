@@ -4,7 +4,7 @@ description: Building a better baguetter
 date: 2020-09-30
 tags:
   - nishiki
-  - nishiki-sport
+bike: Nishiki Sport
 layout: layouts/post.njk
 img_path: /img/sept-2020/nishiki-sport/
 thumbnail: bars-final-thumb.jpg

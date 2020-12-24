@@ -1,10 +1,10 @@
 ---
-layout: layouts/post.njk
+layout: layouts/about.njk
 title: About Re-Cycled
 templateClass: tmpl-post
 eleventyNavigation:
   key: About
-  order: 3
+  order: 4
 ---
 
 Re-Cycled is all about bringing new life to old bicycles -- particularly steel-framed bikes from the '60s through the '90s. We're not a business. We don't do this for a living. We do it for the enjoyment.

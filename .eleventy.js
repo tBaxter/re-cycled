@@ -5,6 +5,7 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const lodash = require('lodash');
 const slugify = require('slugify');
 
 module.exports = function(eleventyConfig) {
@@ -71,23 +72,27 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addCollection("bikeList", function (collection) {
-    let bikeSet = new Set();
+    let bikeList = [];
     collection.getAll().forEach(function (item) {
       if ("bike" in item.data) {
-        let bike = item.data.bike
-        bikeSet.add({
-          name: bike,
-          slug: slugify(bike.toLowerCase())
-        });
+        let bike = item.data.bike;
+        let bikeSlug = slugify(bike.toLowerCase())
+        // Quick check to see if bike already exists.
+        // Bikelist is small, so this should be reasonably performant.
+        bikeObj = bikeList.find(obj => obj.slug == bikeSlug);
+        if (bikeObj) {
+          bikeObj.posts.push(item)
+        } else {
+          // the bike is not yet in the bikeList, so we'll create it.
+          bikeList.push({
+            name: bike,
+            slug: bikeSlug,
+            posts: [item]
+          });
+        }
       }
     });
-    return [...bikeSet];
-  });
-  eleventyConfig.addFilter("getPostsForBike", (collection, bike) => {
-    return collection.getAll().filter(function (item) {
-      // Side-step tags and do your own filtering
-      return 'bike' in item.data && item.data.bike == bike;
-    });
+    return bikeList;
   });
 
   eleventyConfig.addPassthroughCopy("img");

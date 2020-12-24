@@ -3,8 +3,10 @@ title: Principessa Build Sheet
 description: Starting a new thing, creating a build spec sheet for each bike.
 date: 2020-09-15
 tags:
-  - khs-aerosport
   - principessa
+  - build-sheets
+  - khs
+bike: KHS Aerosport
 layout: layouts/post.njk
 ---
 

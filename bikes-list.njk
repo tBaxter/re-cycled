@@ -3,9 +3,13 @@ permalink: /bikes/
 layout: layouts/home.njk
 title: Re-Cycled post by bike
 description: All the Re-Cycled.net bikes.
+eleventyNavigation:
+  key: The Bikes
+  order: 2
 ---
 <h1>The bikes</h1>
 <ul>
+
 {% for bike in collections.bikeList %}
   {% set bikeUrl %}/bikes/{{ bike.slug }}/{% endset %}
   <li><a href="{{ bikeUrl | url }}" class="post-tag">{{ bike.name }}</a></li>

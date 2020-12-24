@@ -4,7 +4,7 @@ description: The Quattro was in great shape when I got it, but it had been sitti
 date: 2020-08-17
 tags:
   - bianchi
-  - bianchi-quattro
+bike: Bianchi Quattro
 layout: layouts/post.njk
 img_path: /img/aug-2020/bianchi-quattro/
 ---

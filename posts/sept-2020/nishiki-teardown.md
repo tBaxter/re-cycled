@@ -4,7 +4,7 @@ description: Taking the Nishiki down to the frame.
 date: 2020-09-21
 tags:
   - nishiki
-  - nishiki-sport
+bike: Nishiki Sport
 layout: layouts/post.njk
 img_path: /img/sept-2020/nishiki-sport/
 thumbnail: wheel-thumb.jpg
@@ -12,7 +12,7 @@ thumbnail: wheel-thumb.jpg
 
 <img src="{{ img_path }}cables.jpg" alt="cables and cutter" />
 
-It didn't take long at all to tear down the Nishiki, and other than a lot of corrosion from years sitting in a humid garage, it was in pretty good shape.
+It didn't take long at all to tear down the Nishiki. Other than a lot of corrosion from years sitting in a humid garage, it was in pretty good shape.
 
 I started -- as I usually do -- by clipping the cables. On the Nishiki, they were all badly rusted and unsafe to re-use. A good set of [cable-cutters](https://amzn.to/3iVuv7E) is an absolute must-have for anyone working on a bike. You simply can't cut bike and shifter cables properly without them. Perfectly good cutters are available for less than $15. Don't mess around, just get a set. You'll be glad you did.
 

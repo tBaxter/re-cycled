@@ -4,11 +4,11 @@ description: I've always wanted a Bianchi road bike.
 date: 2020-07-10
 tags:
   - bianchi
-  - bianchi-campione
+bike: Bianchi Campione D'Italia
 layout: layouts/post.njk
 ---
 
-In the middle of the [Principessa build](/posts/july-2020/so-it-begins/) I stumbled on a great deal on something I've wanted for a long, long time: A Bianchi Road bike.
+In the middle of the [Principessa build](/posts/july-2020/so-it-begins/) I stumbled on a great deal on something I've wanted for a long, long time: A Bianchi road bike.
 
 <img src="/img/july-2020/bianchi/frame.jpg" alt="The Bianchi frame." />
 

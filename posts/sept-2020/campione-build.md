@@ -4,7 +4,7 @@ description: The Quattro was so close, but so far from being the bike I wanted i
 date: 2020-09-01
 tags:
   - bianchi
-  - bianchi-campione
+bike: Bianchi Campione D'Italia
 layout: layouts/post.njk
 img_path: /img/sept-2020/bianchi-campione/
 ---

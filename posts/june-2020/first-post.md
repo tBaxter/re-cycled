@@ -3,7 +3,6 @@ title: This is my first post.
 description: This is the first post on Re-Cycled, a website & blog about restoring old bicycles.
 date: 2020-06-27
 tags:
-  - about
   - musings
 layout: layouts/post.njk
 ---

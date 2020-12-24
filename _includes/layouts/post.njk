@@ -14,7 +14,11 @@ templateClass: tmpl-post
   products.
 </p>
 
-Tagged: 
+{% if bike %}
+  <p>See all the <a href="/bikes/{{ bike |slug }}">{{ bike }}</a> posts.</p>
+{% endif %}
+
+Tags:
 {%- for tag in tags -%}
   {% if tag != 'posts' %}
     <a href="/tags/{{ tag | slug }}">{{ tag }}</a>

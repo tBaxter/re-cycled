@@ -3,8 +3,8 @@ title: Yet another Bianchi
 description: Another Bianchi turns up in the workshop, pushing the others aside (again)
 date: 2020-08-01
 tags:
-  - bianchi-sport
   - bianchi
+bike: Bianchi Sport
 layout: layouts/post.njk
 img_path: /img/aug-2020/bianchi-sport/
 ---

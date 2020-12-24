@@ -3,7 +3,8 @@ title: Introducing the Peugeot
 description: Parlez-vous français?
 date: 2020-10-01
 tags:
-  - Peugeot
+  - peugeot
+bike: 1982 Peugeot PH19 mixte
 layout: layouts/post.njk
 img_path: /img/oct-2020/peugeot/
 thumbnail: peugeot-thumb.jpg

@@ -4,7 +4,7 @@ description: A slightly more modern take on the classic upright tourer.
 date: 2020-09-20
 tags:
   - nishiki
-  - nishiki-sport
+bike: Nishiki Sport
 layout: layouts/post.njk
 img_path: /img/sept-2020/nishiki-sport/
 thumbnail: nishiki-thumb.jpg

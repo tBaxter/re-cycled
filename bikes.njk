@@ -10,13 +10,9 @@ permalink: /bikes/{{ bike.slug }}/
 
 {% block content %}
   <h2>{{ bike.name }} posts</h2>
+    {% set postslist = bike.posts  %}
+    {% include "postslist.njk" %}
 
-  -- {{ bike }}
-  {# We're reversing, because it will get reversed back in postslists #}
-  {% set postslist = collections[ bike ] | reverse %}
-  -=-=----{{ collections[ bike.name ] }}
-  {% include "postslist.njk" %}
-
-  <p>See <a href="{{ '/bikes/' | url }}">all bikes</a>.</p>
+  <p>Want more? See <a href="{{ '/bikes/' | url }}">all the bikes</a>.</p>
 {% endblock %}
 

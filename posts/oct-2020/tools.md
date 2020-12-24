@@ -4,6 +4,7 @@ description: Pondering the tools one really needs to work on a bike.
 date: 2020-10-25
 tags: 
     - musings
+    - tips
 layout: layouts/post.njk
 ---
 

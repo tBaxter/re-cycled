@@ -2,7 +2,7 @@
 title: Rebuilding the Peugeot
 description: In which massive amounts of polishing compound and elbow grease save a pile of old French parts from the landfill.
 date: 2020-12-22
-bike: Peugeot PH19 mixte
+bike: 1982 Peugeot PH19 mixte
 tags:
   - peugeot
 layout: layouts/post.njk

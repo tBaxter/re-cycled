@@ -3,7 +3,8 @@ title: Raleigh reassembly
 description: Cleaning, polishing, retrue-ing and rebuilding the Raleigh Sports
 date: 2020-07-30
 tags:
-  - raleigh-sports
+  - raleigh
+bike: Raleigh Sports
 layout: layouts/post.njk
 img_path: /img/july-2020/raleigh/
 ---

@@ -3,7 +3,8 @@ title: Disassembling the Raleigh Sports
 description: Bringing the Raleigh Sports into the shop and figuring out how bad it really is.
 date: 2020-07-23
 tags:
-  - raleigh-sports
+  - raleigh
+bike: Raleigh Sports
 layout: layouts/post.njk
 img_path: /img/july-2020/raleigh/
 ---

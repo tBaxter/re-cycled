@@ -4,7 +4,7 @@ description: Building the Nishiki back up as a comfortable tourer.
 date: 2020-09-24
 tags:
   - nishiki
-  - nishiki-sport
+bike: Nishiki Sport
 layout: layouts/post.njk
 img_path: /img/sept-2020/nishiki-sport/
 ---

@@ -3,7 +3,8 @@ title: Refinishing the Peugeot
 description: What do the French call a "rabbit hole"?
 date: 2020-10-15
 tags:
-  - Peugeot
+  - peugeot
+bike: 1982 Peugeot PH19 mixte
 layout: layouts/post.njk
 img_path: /img/oct-2020/peugeot/
 

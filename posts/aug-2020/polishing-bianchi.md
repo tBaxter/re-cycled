@@ -1,10 +1,10 @@
 ---
 title: Polishing the Bianchi Sport
-description: Some polish and elbow grease transforms the Bianchi Sport
+description: Some polish and elbow grease transform the Bianchi Sport
 date: 2020-08-12
 tags:
-  - bianchi-sport
   - bianchi
+bike: Bianchi Sport
 layout: layouts/post.njk
 img_path: /img/aug-2020/bianchi-sport/
 thumbnail: bianchi-sport-thumb.jpg
