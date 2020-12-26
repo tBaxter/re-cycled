@@ -76,7 +76,7 @@ module.exports = function(eleventyConfig) {
     collection.getAll().forEach(function (item) {
       if ("bike" in item.data) {
         let bike = item.data.bike;
-        let bikeSlug = slugify(bike.toLowerCase())
+        let bikeSlug = slugify(bike.toLowerCase().replace("'","-"))
         // Quick check to see if bike already exists.
         // Bikelist is small, so this should be reasonably performant.
         bikeObj = bikeList.find(obj => obj.slug == bikeSlug);
