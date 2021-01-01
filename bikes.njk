@@ -10,7 +10,7 @@ permalink: /bikes/{{ bike.slug }}/
 
 {% block content %}
   <h2>{{ bike.name }} posts</h2>
-    {% set postslist = bike.posts  %}
+    {% set postslist = bike.posts | reverse %}
     {% include "postslist.njk" %}
 
   <p>Want more? See <a href="{{ '/bikes/' | url }}">all the bikes</a>.</p>
