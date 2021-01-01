@@ -21,9 +21,11 @@ I could tell the bike had been truly loved once. That had been awhile ago, thoug
 
 It's not perfect by any stretch, but it has a nice blend of shiny new and vintage patina, and it positively oozes Gallic charm. It's the kind of bike that makes you want to buy more just like it, even though you clearly already have one and don't need more.
 
+But that's the finished product. It took a lot to get there, as you can see in the before-and-after photos.
+
 <img src="{{ img_path }}rust.jpeg" alt="The rust that launched the respray." />
 
-The rust on the frame wasn't deep, thankfully, but it was extensive. Worse yet, the more I stripped back, the more rust I uncovered. 
+ Let's start with the rust. As noted previously, the rust on the frame wasn't deep, but it was extensive. Worse yet, the more I stripped back, the more rust I uncovered. 
 
 In the end, the automotive paint cost considerably more than the bike had, but it was worth it. The frame finished up very well, and the reproduction decals completed the look beautifully -- so much so that I picked white accents, including brake lines, to complement the white Peugeot logos.
 
