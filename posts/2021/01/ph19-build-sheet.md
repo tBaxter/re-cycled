@@ -30,9 +30,9 @@ layout: layouts/post.njk
 |Rims              | Rigida                       |
 |Hubs              | Malliard                       |
 |Tires             | [Schwalbe HS 159](https://amzn.to/3pO46LM) |
-|Handlebars        | [Origin8 Pro Rise All Mountain](https://amzn.to/2X4I0s6)                       |
-|Grips/tape        | [Sram Supercork](https://amzn.to/3obuz5M)                       |
+|Handlebars        | [Origin8 Pro Rise All Mountain](https://amzn.to/2X4I0s6) |
+|Grips/tape        | [Sram Supercork](https://amzn.to/3obuz5M) |
 |Stem              |                        |
 |Headset           |                        |
-|Seat              | [Selle Italia](https://amzn.to/390sUcG)                    |
+|Seat              | [Selle Italia](https://amzn.to/390sUcG) |
 |Pedals            | Lyotard |
