@@ -11,7 +11,9 @@ img_path: /img/2021/01/nyala/
 
 <img src="{{ img_path }}nyala.jpeg" alt="The Bianchi Nyala">
 
-Back in the mid-'90s Bianchi was well aware of the mountain bike craze sweeping the US, but they couldn't resist putting their own Italianate twist on things. Where others went for lurid paint schemes and increasingly Transformer-like suspension designs Bianchi's mountain bikes were much like their road bikes of the era: classy and classic. There were no RockShox to be seen. Instead you got lugged frames and nimble, tossable handling. 
+Back in the mid-'90s Bianchi was well aware of the mountain bike craze sweeping the US, but they couldn't resist putting their own Italianate twist on things.
+
+Where others went for lurid paint schemes and increasingly Transformer-like suspension designs Bianchi's mountain bikes were much like their road bikes of the era: classy and classic. There were no RockShox to be seen. Instead you got lugged frames and nimble, tossable handling. 
 
 It's not like Bianchi didn't understand mountain bikes. They'd been making them for years, and their Grizzly was already approaching legendary status. They just *chose* to be different. And if you fell under their spell, as I did, there wasn't much else that would do.
 
