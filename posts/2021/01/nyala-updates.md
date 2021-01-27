@@ -17,7 +17,7 @@ Where others went for lurid paint schemes and increasingly Transformer-like susp
 
 It's not like Bianchi didn't understand mountain bikes. They'd been making them for years, and their Grizzly was already approaching legendary status. They just *chose* to be different. And if you fell under their spell, as I did, there wasn't much else that would do.
 
-So, my Bianchi Nyala is long overdue for an introduction here. I've owned this bike since it was new, so that's about 25 years now. I'm pretty sure it'll never leave my hands. In a lot of ways it had more in common with modern gravel bikes than it did with its mid-90s mountain bike brethren. Maybe Bianchi was ahead of the curve?
+Which is a long-winded way of saying my Bianchi Nyala is long overdue for an introduction here. I've owned this bike since it was new, so that's about 25 years now. I'm pretty sure it'll never leave my hands. In a lot of ways it had more in common with modern gravel bikes than it did with its mid-90s mountain bike brethren. Maybe Bianchi was ahead of the curve?
 
 I've ridden up and down Arizona mountainsides on this bike. I've used it as a commuter. My son rode it when he outgrew his childhood bike. He could have had a new bike, but he too fell under the spell of the Nyala. 
 
