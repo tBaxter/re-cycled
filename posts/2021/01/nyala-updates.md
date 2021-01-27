@@ -1,7 +1,7 @@
 ---
 title: Introducing the Bianchi Nyala
 description: My ever-faithful Bianchi Nyala gets ready for some updates
-date: 2021-01-27
+date: 2021-01-26
 bike: Bianchi Nyala
 tags:
   - bianchi

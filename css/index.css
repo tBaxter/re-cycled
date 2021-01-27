@@ -56,7 +56,7 @@ figure img {
 }
 figure figcaption {
   padding: .5em;
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   color: var(--darkgray)
 }
 img.thumb {
