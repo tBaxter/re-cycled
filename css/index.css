@@ -11,6 +11,7 @@
   --white: #fff;
   --accent: #E8EDE8;
   --rust: #6E3519;
+
 }
 
 * {
@@ -45,6 +46,7 @@ p,
   border: 1px solid;
   float: right;
   clear: right;
+  max-width: 100%;
   margin: 0 0 1em; /* Will be reset below for larger screens */
 }
 .tmpl-post > img.wide {
@@ -176,30 +178,34 @@ pre {
   background-color: #902f2f;
 }
 
-main::before {
-  display: block;
-  content: "";
-  position: fixed;
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 24%;
-  background: url("../img/old-bike.png") no-repeat;
-  background-size: cover;
-  background-position: right center;
-}
 main {
-  margin-left: 27%;
   padding: 2rem 2rem 1rem;
   background: #fff;
   border: 1px solid var(--gray);
   border-radius: 0.5em;
-  margin-right: 3%;
+  margin: 0 3%;
   font-size: 1.325rem;
-
 }
 main :first-child {
   margin-top: 0;
+}
+
+@media only screen and (min-width: 800px) {
+  main::before {
+    display: block;
+    content: "";
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 24%;
+    background: url("../img/old-bike.png") no-repeat;
+    background-size: cover;
+    background-position: right center;
+  }
+  main {
+    margin-left: 27%;
+  }
 }
 
 /* Header */
@@ -207,7 +213,7 @@ header {
   position: relative;
   background: #f0f0f0;
   z-index: 1;
-  margin: 4.5em 0 2em;
+  margin: 2.5em 0 2em;
   padding: .33em 0;
   border: solid var(--gray);
   border-width: 1px 0
@@ -217,25 +223,17 @@ header:after {
   display: table;
   clear: both;
 }
-
-
 .home {
   position: absolute;
-  left: 25%;
-  width: 12em;
-  top: -4.25em;
+  top: -2em;
 }
 .home img {
-  width: 12em;
+  width: 8em;
 }
-
 .tagline {
-  float: left;
-  width: 22%;
   font-weight: normal;
   font-size: 1rem;
-  text-align: right;
-  margin: 0;
+  margin: 0 0 0 9em;
 }
 
 /* Nav */
@@ -243,8 +241,32 @@ header:after {
   padding: 0;
   list-style: none;
   float: left;
-  margin: 0 0 0 15em;
+  margin: 0 0 0 9em;
 }
+
+@media only screen and (min-width: 800px) {
+  header {
+    margin-top: 4.5em;
+  }
+  .home {
+    left: 25%;
+    width: 12em;
+    top: -4.25em;
+  }
+  .home img {
+    width: 12em;
+  }
+  .tagline {
+    float: left;
+    width: 22%;
+    text-align: right;
+    margin: 0;
+  }
+  .nav {
+    margin-left: 15em;
+  }
+}
+
 .nav-item {
   display: inline-block;
   margin-right: 1em;
@@ -264,25 +286,34 @@ header:after {
 }
 .postlist li {
   counter-increment: start-from -1;
-  display: grid; 
-  grid-template-columns: 15% auto 15%; 
-  grid-template-rows: repeat(2, auto); 
-  grid-column-gap: 20px;
-  grid-row-gap: 0px; 
   margin-bottom: 2em;
   align-items: center;
   justify-items: start
 }
 .postlist .postdata { 
-  grid-area: 1 / 1 / 3 / 2;
-  border-right: 1px solid var(--lightgray);
-  text-align: right;
-  padding-right: 20px;
   font-size: 0.9rem;
   height: 100%;
   padding-top: 0.5em;
   width: 110px /* to match thumb */
 } 
+
+@media only screen and (min-width: 800px) {
+  .postlist li {
+    display: grid; 
+    grid-template-columns: 15% auto 15%; 
+    grid-template-rows: repeat(2, auto); 
+    grid-column-gap: 20px;
+    grid-row-gap: 0px; 
+  }
+  .postlist .postdata { 
+    grid-area: 1 / 1 / 3 / 2;
+    border-right: 1px solid var(--lightgray);
+    text-align: right;
+    padding-right: 20px;
+  }
+ }
+
+
 .postlist .postinfo {
   grid-area: 1 / 2 / 2 / 3; 
 }
