@@ -1,6 +1,6 @@
 ---
 title: Measure carefully
-description: My failure to measure carefully leads to a lenghty Nyala delay.
+description: My failure to measure carefully leads to a lengthy Nyala delay.
 date: 2021-02-15
 bike: Bianchi Nyala
 tags:
