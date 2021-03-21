@@ -1,7 +1,7 @@
 ---
 layout: layouts/about.njk
 title: About Re-Cycled
-templateClass: tmpl-post
+templateclass: tmpl-post
 eleventyNavigation:
   key: About
   order: 4

@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-templateClass: tmpl-post
+templateclass: tmpl-post
 ---
 <h1>{{ title }}</h1>
 
@@ -8,7 +8,15 @@ templateClass: tmpl-post
 
 <ul>
   {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-  {%- if nextPost %}<li>Next on Re-Cycled: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
+  {%- if nextPost %}
+    <li>Next on Re-Cycled:
+      <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a>
+    </li>
+  {% endif %}
   {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-  {%- if previousPost %}<li>Previously on Re-Cycled: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+  {%- if previousPost %}
+    <li>Previously on Re-Cycled:
+      <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a>
+    </li>
+  {% endif %}
 </ul>

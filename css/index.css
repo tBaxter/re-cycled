@@ -50,7 +50,9 @@ p,
   margin: 0 0 1em; /* Will be reset below for larger screens */
 }
 .tmpl-post > img.wide {
-  width: 100%
+  width: 100%;
+  max-width: 100%;
+  float:none;
 }
 figure img {
   width: 100%;

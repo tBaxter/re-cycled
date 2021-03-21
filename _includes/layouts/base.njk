@@ -12,18 +12,22 @@
   <body>
     <header>
       <a href="{{ '/' | url }}" class="home">
-        <img src="/img/re-cycled-logo.png" alt="Re-cycle.com home" />
+        <img src="/img/re-cycled-logo.png" alt="Re-cycled.com home"/>
       </a>
       <h2 class="tagline">{{ metadata.description }}</h2>
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <ul class="nav">
-      {%- for entry in collections.all | eleventyNavigation %}
-        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
-      {%- endfor %}
-      <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="/tags/">Tags</a></li>
+        {%- for entry in collections.all | eleventyNavigation %}
+          <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}">
+            <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+          </li>
+        {%- endfor %}
+        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}">
+          <a href="/tags/">Tags</a>
+        </li>
       </ul>
     </header>
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+    <main{% if templateclass %} class="{{ templateclass }}" {% endif %}>
       {% block main %}
         {{ content | safe }}
       {% endblock %}
@@ -32,8 +36,13 @@
     <footer></footer>
 
     <!-- Current page: {{ page.url | url }} -->
-    <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101271517);</script>
-    <script async src="//static.getclicky.com/js"></script>
-    <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101271517ns.gif" /></p></noscript>
+    <script>
+      var clicky_site_ids = clicky_site_ids || [];
+      clicky_site_ids.push(101271517);
+    </script>
+    <script async="async" src="//static.getclicky.com/js"></script>
+    <noscript>
+      <p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101271517ns.gif"/></p>
+    </noscript>
   </body>
 </html>
