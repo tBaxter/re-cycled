@@ -82,13 +82,13 @@ img.thumb {
 @media only screen and (min-width: 800px) {
   .tmpl-post > img,
   .tmpl-post figure {
-    width: 66%;
+    width: 60%;
     margin: 0 0 1em 1em;
   }
   .tmpl-post > img.vert,
   .tmpl-post > img.sm,
   .photogrid > figure.vert {
-    width: 32%
+    width: 38%
   }
   .photogrid {
     display: flex;
